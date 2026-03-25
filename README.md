@@ -4,7 +4,7 @@
 - 🔭 Working on **HR Data Analytics** and Professional Reporting.
 - ⚡ Expert in **Advanced Excel**, Data Visualization, and Dashboards.
 - 🎓 Pursuing advanced studies in Management and Public Administration.
-- 🦅 Proud supporter of **Al Ahly SC**!
+
 
 ### 🛠 My Toolbox
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
